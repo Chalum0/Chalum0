@@ -3,6 +3,9 @@
 **Programming languages I've used / Im using are:**
   * [Python](https://www.python.org/)
   * [Assembly](https://learn.microsoft.com/en-us/dotnet/standard/assembly/)
+  * [Html](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * [Css](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
 **IDEs I have experience with are:**
 
