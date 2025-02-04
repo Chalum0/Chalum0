@@ -2,27 +2,29 @@
 
 **Programming languages I've used / Im using are:**
   * [Python](https://www.python.org/)
-  * [Assembly](https://learn.microsoft.com/en-us/dotnet/standard/assembly/)
   * [Html](https://developer.mozilla.org/en-US/docs/Web/HTML)
   * [Css](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
   * [Java](https://www.java.com/)
+  * Kotlin
+  * PHP
+  * GLSL
 
 **IDEs I have experience with are:**
 
   * [Pycharm](https://www.jetbrains.com/pycharm/)
+  * VsCode
   * [Fleet](https://www.jetbrains.com/fleet/)
   * [Notepad++](https://notepad-plus-plus.org/)
 
 **Technologies I'm interested in include:**
   * AIs
   * Cryptography
-  * Game programmation from scratch
+  * Game programmation (from scratch)
 
 **You can contact me:**
   * Mail: contact.chalumo@gmail.com
   * [𝕏](https://x.com) ([twitter](https://x.com)): [@Chalumo_](https://twitter.com/Chalumo_)
-  * [Discord](https://discord.com): chalumo0205
 
 
 <!---
