@@ -24,7 +24,6 @@
 
 **You can contact me:**
   * Mail: contact.chalumo@gmail.com
-  * [𝕏](https://x.com) ([twitter](https://x.com)): [@Chalumo_](https://twitter.com/Chalumo_)
 
 
 <!---
